@@ -32,7 +32,7 @@ Sobre mim
 <div align="center">
   <div style="border: 2px solid #3fc43f; border-radius: 12px; padding: 16px; margin-top: 10px; text-align: justify; max-width: 700px; background: linear-gradient(160deg, #051405 0%, #001a00 100%); box-shadow: 0 0 20px rgba(63, 196, 63, 0.25);">
 
-  Estudante de *Análise e Desenvolvimento de Sistemas (ADS)* no IFPE de Paulista, no qual estou no quarto período, onde fui monitor de Matemática Aplicada em 2026.1 e atualmente sou *Líder da Diretoria de Finanças do Diretório Acadêmico de ADS. Também faço projeto de extensão no IFPE de Recife pela **Liga Acadêmica de Engenharia de Software,* onde sou *Desenvolvedor, Líder de projeto e Instrutor de introdução à programação*.
+  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFPE de Paulista, no qual estou no quarto período, onde fui monitor de Matemática Aplicada em 2026.1 e atualmente sou **Líder da Diretoria de Finanças do Diretório Acadêmico de ADS.** Também faço projeto de extensão no IFPE de Recife pela **Liga Acadêmica de Engenharia de Software,** onde sou **Desenvolvedor, Líder de projeto e Instrutor de introdução à programação**.
 
   Gosto muito de programação, assim como gosto de matemática. Atuo principalmente como desenvolvedor frontend em projetos, mas também estudo e me desenvolvo como programador backend.
   </div>
