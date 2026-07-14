@@ -5,13 +5,13 @@
 
 <!--Nome-->
 <div align="center">
-<h1 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 36px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Victor Soares 
-</h1><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=36&color=3fc43f&center=true&vCenter=true&lines=Victor+Soares&width=400&height=60" alt="Victor Soares" />
+  <br>
+</div>
 
 <!--Imagem-->
 <div align="center">
-  <img src="https://github.com/VictorSCDS.png" width="160px" style="border-radius: 50%; border: 4px solid #61e509; box-shadow: 0 0 25px rgba(60, 229, 9, 0.6);" alt="Victor Soares" />
+  <img src="https://github.com/VictorSCDS.png" width="160px" style="border-radius: 50%; border: 4px solid #61e509;" alt="Victor Soares" />
 </div>
 
 <!--Seguidores e visitas-->
@@ -25,47 +25,47 @@ Victor Soares
 ---
 
 <!--Sobre mim-->
-<h2 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 26px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Sobre mim 
-</h2>
-
 <div align="center">
-  <div style="border: 2px solid #3fc43f; border-radius: 12px; padding: 16px; margin-top: 10px; text-align: justify; max-width: 700px; background: linear-gradient(160deg, #051405 0%, #001a00 100%); box-shadow: 0 0 20px rgba(63, 196, 63, 0.25);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=26&color=3fc43f&center=true&vCenter=true&lines=Sobre+mim&width=400&height=50" alt="Sobre mim" />
+</div>
 
-  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFPE de Paulista, no qual estou no quarto período, onde fui monitor de Matemática Aplicada em 2026.1 e atualmente sou **Líder da Diretoria de Finanças do Diretório Acadêmico de ADS**. Também faço projeto de extensão no IFPE de Recife pela **Liga Acadêmica de Engenharia de Software,** onde sou **Desenvolvedor, Líder de projeto e Instrutor de introdução à programação**.
+> Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFPE de Paulista, no qual estou no quarto período, onde fui monitor de Matemática Aplicada em 2026.1 e atualmente sou **Líder da Diretoria de Finanças do Diretório Acadêmico de ADS**. Também faço projeto de extensão no IFPE de Recife pela **Liga Acadêmica de Engenharia de Software,** onde sou **Desenvolvedor, Líder de projeto e Instrutor de introdução à programação**.
+>
+> Gosto muito de programação, assim como gosto de matemática. Atuo principalmente como desenvolvedor frontend em projetos, mas também estudo e me desenvolvo como programador backend.
 
-  Gosto muito de programação, assim como gosto de matemática. Atuo principalmente como desenvolvedor frontend em projetos, mas também estudo e me desenvolvo como programador backend.
-  </div>
-</div><br>
+<br>
 
 ---
 
-<!--Staks e tecnologias-->
-<h2 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 26px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Stack & Tecnologias 
-</h2>
+<!--Stacks e tecnologias-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=26&color=3fc43f&center=true&vCenter=true&lines=Stack+%26+Tecnologias&width=400&height=50" alt="Stack & Tecnologias" />
+</div>
 
-<h3 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 22px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Linguagens & Frameworks
-</h3><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,py,vue&theme=dark" alt="Linguagens"/><br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=22&color=3fc43f&center=true&vCenter=true&lines=Linguagens+%26+Frameworks&width=400&height=40" alt="Linguagens & Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,py,vue&theme=dark" alt="Linguagens"/>
+  <br><br>
 
-<h3 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 22px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Banco de dados
-</h3><br>
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="Bancos de Dados"/><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=22&color=3fc43f&center=true&vCenter=true&lines=Banco+de+dados&width=400&height=40" alt="Banco de dados" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase&theme=dark" alt="Bancos de Dados"/>
+  <br><br>
 
-<h3 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 22px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Ferramentas & Sistemas
-</h3><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,clion,eclipse,pycharm,linux,mint&theme=dark" alt="Ferramentas"/><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=22&color=3fc43f&center=true&vCenter=true&lines=Ferramentas+%26+Sistemas&width=400&height=40" alt="Ferramentas & Sistemas" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,clion,eclipse,pycharm,linux,mint&theme=dark" alt="Ferramentas"/>
+  <br><br>
+</div>
 
 ---
 
 <!--Statisticas GitHub-->
-<h2 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 26px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Estatísticas do GitHub 
-</h2><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=26&color=3fc43f&center=true&vCenter=true&lines=Estatísticas+do+GitHub&width=500&height=50" alt="Estatísticas do GitHub" />
+</div>
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSCDS&theme=dark&hide_border=true&ring=3fc43f&fire=3fc43f&currStreakNum=3fc43f&currStreakLabel=3fc43f&sideNums=3fc43f&sideLabels=3fc43f&dates=3fc43f" alt="GitHub Streak"/>
 </div><br><br>
@@ -73,9 +73,10 @@ Estatísticas do GitHub
 ---
 
 <!--Redes-->
-<h2 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 26px; color: #3fc43f; text-align: center; letter-spacing: 4px; margin: 0;">
-Redes
-</h2><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=26&color=3fc43f&center=true&vCenter=true&lines=Redes&width=400&height=50" alt="Redes" />
+</div>
+<br>
 
 <p align="center">
   <a href="mailto:victor.user.scds@gmail.com">
@@ -84,7 +85,7 @@ Redes
   <a href="https://www.linkedin.com/in/victor-soares-vscds/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/victor.scds/">
+  <a href="https://instagram.com/seu_usuario_aqui">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
